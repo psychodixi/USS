@@ -14,3 +14,6 @@ Kevin Lener
 Página con dominio público:
 https://pokeapiuss.streamlit.app/
 
+API utilziada:
+https://pokeapi.co/
+
